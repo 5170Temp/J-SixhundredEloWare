@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "fr.lostera"
+group = "dev.isnow"
 version = "1.0-SNAPSHOT"
 
 repositories {
